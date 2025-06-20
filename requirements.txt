@@ -1,0 +1,8 @@
+gTTS
+openai
+playsound3
+pydub
+PyAudio
+python-dotenv
+SpeechRecognition
+ttkbootstrap
